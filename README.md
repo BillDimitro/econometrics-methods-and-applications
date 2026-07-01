@@ -1,9 +1,12 @@
 # Overview
 
-This repository is an in-progress Python portfolio documenting my study of the Coursera course **Econometrics: Methods and Applications**.
+This repository documents my Python implementations and applied analysis for the Coursera course **Econometrics: Methods and Applications** by Erasmus School of Economics.
 
-The repository currently contains training exercises, test exercises, datasets, Python scripts, and final exercise reports.
-It will be updated progressively as I continue working through the course.
+The repository contains datasets, training exercises, test exercises, Python scripts, and final exercise reports.
+
+**Course status:** Completed  
+**Final grade:** 100%  
+**Credential:** https://www.coursera.org/account/accomplishments/verify/I0UWI4YZXFP4
 
 # Disclaimer
 
